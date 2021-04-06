@@ -117,7 +117,7 @@ html{
     background-color: black;
     color: white;
 }
-/* MEDIA QUERY */
+/* MEDIA QUERY ---*/
 @media(min-width: 768px){
     .welcome{
         font-size: 19px;
